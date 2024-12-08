@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/2e71baf4-2e7d-497d-9171-5b22c9bf202d)# MXMH_Data_Analysis
+MXMH_Data_Analysis
 In this data analysis project, we're going to examine music and mental health survey results to identify the correlations between music related habits of respondents and mental health, if there any.
 
 ### Dataset Context & Features
